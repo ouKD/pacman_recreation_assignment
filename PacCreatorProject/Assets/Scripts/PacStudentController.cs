@@ -10,6 +10,7 @@ public class NewBehaviourScript : MonoBehaviour
     void Start()
     {
         tweener = GetComponent<Tweener>();
+        
     }
 
     // Update is called once per frame
