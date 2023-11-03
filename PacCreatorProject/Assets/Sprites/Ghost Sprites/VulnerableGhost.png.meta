@@ -1,7 +1,37 @@
 fileFormatVersion: 2
 guid: a661bf81f9c7f804db0bca3a88790bab
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2562549759116081713
+    second: VulnerableGhost_0
+  - first:
+      213: 5540528398122775246
+    second: VulnerableGhost_1
+  - first:
+      213: 5452741782516804490
+    second: VulnerableGhost_2
+  - first:
+      213: 6535894033317901967
+    second: VulnerableGhost_3
+  - first:
+      213: 3512424271845563530
+    second: VulnerableGhost_4
+  - first:
+      213: -5864155040638472786
+    second: VulnerableGhost_5
+  - first:
+      213: -353980957179808114
+    second: VulnerableGhost_6
+  - first:
+      213: 260092690878037211
+    second: VulnerableGhost_7
+  - first:
+      213: 2247186183087587311
+    second: VulnerableGhost_8
+  - first:
+      213: -8604167977330435787
+    second: VulnerableGhost_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +71,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +105,231 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: VulnerableGhost_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 114
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a706fcd61009320800000000000000
+      internalID: 2562549759116081713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulnerableGhost_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 114
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2721e1939e3ec40800000000000000
+      internalID: 5540528398122775246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulnerableGhost_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 114
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b28d6e2c70cab40800000000000000
+      internalID: 5452741782516804490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulnerableGhost_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 114
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f863281aef824ba50800000000000000
+      internalID: 6535894033317901967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulnerableGhost_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 66
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8c90dff343aeb030800000000000000
+      internalID: 3512424271845563530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulnerableGhost_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 66
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead6de66f065e9ea0800000000000000
+      internalID: -5864155040638472786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulnerableGhost_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 66
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e867b06e138661bf0800000000000000
+      internalID: -353980957179808114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulnerableGhost_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 66
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcf570ace80c9300800000000000000
+      internalID: 260092690878037211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulnerableGhost_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 18
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feff91b6deb9f2f10800000000000000
+      internalID: 2247186183087587311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VulnerableGhost_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 18
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5399d6bbfcad79880800000000000000
+      internalID: -8604167977330435787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
